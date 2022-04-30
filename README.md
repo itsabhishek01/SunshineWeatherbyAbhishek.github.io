@@ -1,4 +1,3 @@
-#I AM USING OPENWEATHEMAP API TO FETCH WEATHER DATA
 https://itsabhishek01.github.io/SunshineWeatherbyAbhishek.github.io/
 
 Open the link in any Web Browser
